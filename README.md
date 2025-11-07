@@ -32,7 +32,7 @@ It demonstrates a complete end-to-end ML workflow — from **data preprocessing 
 
 *(Replace with your actual results after running the model.)*
 
----
+--- 
 
 ## 💼 Use Cases  
 
