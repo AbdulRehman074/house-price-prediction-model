@@ -18,7 +18,7 @@ It demonstrates a complete end-to-end ML workflow — from **data preprocessing 
 ## 🧩 Tech Stack  
 - **Language:** Python 🐍  
 - **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
-- **Environment:** Google Colab / Jupyter Notebook  
+- **Environment:** Google Colab   
 
 ---
 
